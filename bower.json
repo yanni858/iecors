@@ -1,0 +1,23 @@
+{
+  "name": "iecors",
+  "version": "0.0.0",
+  "authors": [
+    "Jeff Hubbard <lord2800@gmail.com>"
+  ],
+  "description": "A JavaScript module supporting automatic switching between XDomainRequest and XMLHttpRequest for IE8 and 9",
+  "main": "XDomainRequest.js",
+  "keywords": [
+    "CORS",
+    "XDomainRequest",
+    "XMLHttpRequest"
+  ],
+  "license": "WTFPL",
+  "homepage": "https://github.com/lord2800/iecors",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
